@@ -1,2 +1,3 @@
-He utilizado para este proyecto un patrón de diseño mvc. He utilizado springboot con una BBDD en h2 y lombok para generar los getters setters...
-La aplicación la puedes ejecutar en Prices Application. Y los test solicitados se encuentran en PricesApplicationTests
+# Project Title
+
+A brief description of what this project does and who it's for
