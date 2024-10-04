@@ -1,6 +1,6 @@
 ## Table of contents
 * [Información general](#general-info)
-* [Tecnologias(#technologies)
+* [Tecnologias](#technologies)
 * [Instalación](#setup)
 *  [Mejoras](#updates)
 
