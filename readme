@@ -1,18 +1,3 @@
-# Table of contents
-* [Información general](#general-info)
-* [Tecnologías](#technologies)
-* [Instalación](#setup)
+# Project Title
 
-# General info
-Proyecto para consultar los descuentos aplicados a un producto en una franja horaria.
-	
-# Technologies
-Las tecnologías usadas han sido:
-Spring boot
-Base de datos H2
-Lombok
-Spring Test
-	
-# Setup
-Para levantar el proyecto debemos ejecutar PricesApplication.java
-Para realizar las consultas lo podemos haccer mediante una llamada post con un objeto en el  body con estos parámetros {identificadorProducto, identificadorCadena, fechaDeAplicacion}
+A brief description of what this project does and who it's for
