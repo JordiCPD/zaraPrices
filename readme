@@ -1,2 +1,18 @@
-He utilizado para este proyecto un patrón de diseño mvc. He utilizado springboot con una BBDD en h2 y lombok para generar los getters setters...
-La aplicación la puedes ejecutar en Prices Application. Y los test solicitados se encuentran en PricesApplicationTests
+## Table of contents
+* [Información general](#general-info)
+* [Tecnologías](#technologies)
+* [Instalación](#setup)
+
+## General info
+Proyecto para consultar los descuentos aplicados a un producto en una franja horaria.
+	
+## Technologies
+Las tecnologías usadas han sido:
+Spring boot
+Base de datos H2
+Lombok
+Spring Test
+	
+## Setup
+Para levantar el proyecto debemos ejecutar PricesApplication.java
+Para realizar las consultas lo podemos haccer mediante una llamada post con un objeto en el  body con estos parámetros {identificadorProducto, identificadorCadena, fechaDeAplicacion}
